@@ -37,7 +37,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Mar 7  | Braham Snyder | | 
 | Mar 14 (Spring Break) | | | 
 | Mar 21  | | | 
-| Mar 28  | | |
+| Mar 28  | [Amin Davoodabadi](https://moamdavoodi.github.io/) | |
 | Apr 4  | | |
 | Apr 11  | [Dylan Foster](https://dylanfoster.net) | |
 | Apr 18  | | |
