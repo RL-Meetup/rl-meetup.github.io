@@ -32,7 +32,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | - | -  | - |
 | Feb 7  | Zixuan Xie | [Analytic-DPM: An Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models](https://arxiv.org/abs/2201.06503) <br> [Tutorial on Diffusion Models for Imaging and Vision](http://arxiv.org/abs/2403.18103)| 
 | Feb 14  | Xinyu Liu | [Decoupled Functional Central Limit Theorems for Two-Time-Scale Stochastic Approximation](http://arxiv.org/abs/2412.17070)| 
-| Feb 21  | Amir Moeini | | 
+| Feb 21  | Amir Moeini | [Transformers Implement Functional Gradient Descent to Learn Non-Linear Functions In Context](https://arxiv.org/abs/2312.06528) | 
 | Feb 28 (AAAI) | | | 
 | Mar 7  | Braham Snyder | | 
 | Mar 14 (Spring Break) | | | 
