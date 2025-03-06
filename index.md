@@ -34,7 +34,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Feb 14  | Xinyu Liu | [Decoupled Functional Central Limit Theorems for Two-Time-Scale Stochastic Approximation](http://arxiv.org/abs/2412.17070)| 
 | Feb 21  | Amir Moeini | [Transformers Implement Functional Gradient Descent to Learn Non-Linear Functions In Context](https://arxiv.org/abs/2312.06528) | 
 | Feb 28 (AAAI) | | | 
-| Mar 7  | Braham Snyder | | 
+| Mar 7  | Braham Snyder | [Target Networks and Over-parameterization Stabilize Off-policy Bootstrapping with Function Approximation](https://arxiv.org/abs/2405.21043) |
 | Mar 14 (Spring Break) | | | 
 | Mar 21  | | | 
 | Mar 28  | [Amin Davoodabadi](https://moamdavoodi.github.io/) | |
