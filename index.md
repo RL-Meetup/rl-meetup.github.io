@@ -37,7 +37,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Mar 7  | Braham Snyder | [Target Networks and Over-parameterization Stabilize Off-policy Bootstrapping with Function Approximation](https://arxiv.org/abs/2405.21043) |
 | Mar 14 (Spring Break) | | | 
 | Mar 21  | | | 
-| Mar 28  | [Amin Davoodabadi](https://moamdavoodi.github.io/) | |
+| Mar 28  | [Amin Davoodabadi](https://moamdavoodi.github.io/) (remote) | [An information-theoretic perspective on intrinsic motivation in reinforcement learning](https://arxiv.org/abs/2209.08890) |
 | Apr 4  | | |
 | Apr 11  | [Dylan Foster](https://dylanfoster.net) | |
 | Apr 18  | | |
