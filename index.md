@@ -36,7 +36,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Feb 28 (AAAI) | | | 
 | Mar 7  | Braham Snyder | [Target Networks and Over-parameterization Stabilize Off-policy Bootstrapping with Function Approximation](https://arxiv.org/abs/2405.21043) |
 | Mar 14 (Spring Break) | | | 
-| Mar 21  | Haolin Liu | | 
+| Mar 21  | Haolin Liu | [Exploratory preference optimization: Harnessing implicit q*-approximation for sample-efficient rlhf](https://arxiv.org/abs/2405.21046) | 
 | Mar 28  | [Amin Davoodabadi](https://moamdavoodi.github.io/) <br/> (remote) | [An Information-Theoretic Perspective on Intrinsic Motivation in Reinforcement Learning](https://arxiv.org/abs/2209.08890) |
 | Apr 4  | | |
 | Apr 11  | [Dylan Foster](https://dylanfoster.net) | |
