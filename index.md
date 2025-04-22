@@ -39,8 +39,8 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Mar 21  | Haolin Liu | [Exploratory Preference Optimization: Harnessing Implicit Q*-Approximation for Sample-Efficient RLHF](https://arxiv.org/abs/2405.21046) | 
 | Mar 28  | [Amin Davoodabadi](https://moamdavoodi.github.io/) <br/> (cancelled) | [An Information-Theoretic Perspective on Intrinsic Motivation in Reinforcement Learning](https://arxiv.org/abs/2209.08890) |
 | Apr 4  | Jiuqi Wang| [Can Looped Transformers Learn to Implement Multi-step Gradient Descent for In-context Learning?](https://arxiv.org/abs/2410.08292)|
-| Apr 11  | [Dylan Foster](https://dylanfoster.net) <br/> (remote) | Revisiting the Foundations of Imitation Learning |
-| Apr 18  | [Xiangyu Liu](https://xiangyu-liu.github.io/) <br/> (remote) | Provable Partially Observable Reinforcement Learning with Privileged Information |
+| Apr 11  | [Dylan Foster](https://dylanfoster.net) <br/> (remote) | [Revisiting the Foundations of Imitation Learning](https://arxiv.org/abs/2407.15007) |
+| Apr 18  | [Xiangyu Liu](https://xiangyu-liu.github.io/) <br/> (remote) | [Provable Partially Observable Reinforcement Learning with Privileged Information](https://arxiv.org/abs/2412.00985) |
 | Apr 25 (ICLR) | | |
 
 <br/><br/>
