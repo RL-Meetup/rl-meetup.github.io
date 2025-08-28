@@ -14,7 +14,7 @@ layout: home
             <p>UVA RL Meetup</p>
             <small>The Reinforcement Learning Meetup @ University of Virginia</small>  <br/>
 
-            <small>2-3pm Friday @ Rice Hall 204 </small>
+            <small>2-3pm Friday @ Rice Hall 414 </small>
         </h3>
     </div>
 </header>
@@ -23,6 +23,27 @@ layout: home
 This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.github.io) and [Chen-Yu Wei](https://bahh723.github.io) for UVA RL folks to share interesting RL papers.  
 
  
+
+<br/><br/>
+
+## Fall 2025 
+
+| Date | Presenter | Paper or Topic |
+| - | -  | - |
+| Sep 5  |  | | 
+| Sep 12  |  | | 
+| Sep 19  |  | | 
+| Sep 26 (ICLR) |  | | 
+| Oct 3  |  | | 
+| Oct 10  |  | | 
+| Oct 17  |  | | 
+| Oct 24  |  | | 
+| Oct 31  |  | | 
+| Nov 7  |  | | 
+| Nov 14  |  | | 
+| Nov 21  |  | | 
+| Nov 28  |  | | 
+
 
 <br/><br/>
 
