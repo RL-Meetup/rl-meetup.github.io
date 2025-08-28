@@ -35,7 +35,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Sep 19  |  | | 
 | Sep 26 (ICLR) |  | | 
 | Oct 3  | Zixuan Xie | | 
-| Oct 10  |  | | 
+| Oct 10  | Xinyu Liu | | 
 | Oct 17  |  | | 
 | Oct 24  |  | | 
 | Oct 31  |  | | 
