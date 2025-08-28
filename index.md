@@ -30,7 +30,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 
 | Date | Presenter | Paper or Topic |
 | - | -  | - |
-| Sep 5  |  | | 
+| Sep 5  | Jiuqi Wang | | 
 | Sep 12  |  | | 
 | Sep 19  |  | | 
 | Sep 26 (ICLR) |  | | 
