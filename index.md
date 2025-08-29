@@ -37,7 +37,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Oct 3  | Zixuan Xie | | 
 | Oct 10  | Xinyu Liu | | 
 | Oct 17  |  | | 
-| Oct 24  |  | | 
+| Oct 24  | Haolin Liu | | 
 | Oct 31  | Braham Snyder | | 
 | Nov 7  |  | | 
 | Nov 14  |  | | 
