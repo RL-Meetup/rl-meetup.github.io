@@ -13,7 +13,6 @@ layout: home
         <h3 class="masthead-title">
             <p>UVA RL Meetup</p>
             <small>The Reinforcement Learning Meetup @ University of Virginia</small>  <br/>
-
             <small>2-3pm Friday @ Rice Hall 414 </small>
         </h3>
     </div>
@@ -36,7 +35,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Sep 26 (ICLR) |  | | 
 | Oct 3  | Zixuan Xie | | 
 | Oct 10  | Xinyu Liu | | 
-| Oct 17  |  | | 
+| Oct 17  | Amir Moeini  | | 
 | Oct 24  | Haolin Liu | | 
 | Oct 31  | Braham Snyder | | 
 | Nov 7  |  | | 
