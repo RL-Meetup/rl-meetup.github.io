@@ -29,7 +29,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 
 | Date | Presenter | Paper or Topic |
 | - | -  | - |
-| Sep 5  | Jiuqi Wang | [Convergence of regularized agent-state-based Q-learning in POMDPs](https://arxiv.org/abs/2508.21314) | 
+| Sep 5  | Jiuqi Wang | [Convergence of Regularized Agent-State-Based Q-learning in POMDPs](https://arxiv.org/abs/2508.21314) | 
 | Sep 12  |  | | 
 | Sep 19  |  | | 
 | Sep 26 (ICLR) |  | | 
