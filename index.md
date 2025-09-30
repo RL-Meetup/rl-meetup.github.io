@@ -32,7 +32,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Sep 5  | Jiuqi Wang | [Convergence of Regularized Agent-State-Based Q-learning in POMDPs](https://arxiv.org/abs/2508.21314) | 
 | Sep 12 (ICLR) |  | | 
 | Sep 19 (ICLR) |  | | 
-| Sep 26 |  | | 
+| Sep 26 (ICLR) |  | | 
 | Oct 3  | Zixuan Xie | | 
 | Oct 10  | Xinyu Liu | [A dynamic view of some anomalous phenomena in SGD](https://arxiv.org/abs/2505.01751v2)  |
 | Oct 17  | Amir Moeini  | | 
