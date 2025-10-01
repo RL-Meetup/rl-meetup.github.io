@@ -33,7 +33,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Sep 12 (ICLR) |  | | 
 | Sep 19 (ICLR) |  | | 
 | Sep 26 (ICLR) |  | | 
-| Oct 3  | Zixuan Xie | | 
+| Oct 3  | Zixuan Xie | [Transformers Learn to Implement Multi-step Gradient  Descent with Chain of Thought](https://arxiv.org/abs/2502.21212) | 
 | Oct 10  | Xinyu Liu | [A dynamic view of some anomalous phenomena in SGD](https://arxiv.org/abs/2505.01751v2)  |
 | Oct 17  | Amir Moeini  | | 
 | Oct 24  | Haolin Liu | | 
