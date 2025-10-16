@@ -35,7 +35,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Sep 26 (ICLR) |  | | 
 | Oct 3  | Zixuan Xie | [Transformers Learn to Implement Multi-step Gradient  Descent with Chain of Thought](https://arxiv.org/abs/2502.21212) | 
 | Oct 10  | Xinyu Liu | [A dynamic view of some anomalous phenomena in SGD](https://arxiv.org/abs/2505.01751v2)  |
-| Oct 17  | Amir Moeini  | | 
+| Oct 17  | Amir Moeini  | [On the Design of KL-Regularized Policy Gradient Algorithms for LLM Reasoning](https://arxiv.org/abs/2505.17508) | 
 | Oct 24  | Haolin Liu | | 
 | Oct 31  | Braham Snyder | | 
 | Nov 7  | Minjae Kwon | | 
