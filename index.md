@@ -40,7 +40,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Oct 31  | Braham Snyder | | 
 | Nov 7  | Minjae Kwon | | 
 | Nov 14  |  | | 
-| Nov 21  |  | | 
+| Nov 21  | [Andrew Wagenmaker](https://wagenmaker.github.io/) | | 
 | Nov 28 (Thanksgiving) |  | | 
 
 
