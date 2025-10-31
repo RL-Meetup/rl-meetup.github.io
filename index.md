@@ -37,7 +37,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Oct 10  | Xinyu Liu | [A Dynamic View of Some Anomalous Phenomena in SGD](https://arxiv.org/abs/2505.01751v2)  |
 | Oct 17  | Amir Moeini  | [On the Design of KL-Regularized Policy Gradient Algorithms for LLM Reasoning](https://arxiv.org/abs/2505.17508) | 
 | Oct 24  | Haolin Liu | [Token Hidden Reward: Steering Exploration-Exploitation in Group Relative Deep Reinforcement Learning](https://www.arxiv.org/abs/2510.03669) | 
-| Oct 31  | Braham Snyder | | 
+| Oct 31  | Braham Snyder | [The Importance of Pessimism in Fixed-Dataset Policy Optimization](https://arxiv.org/abs/2009.06799) | 
 | Nov 7  | Minjae Kwon | | 
 | Nov 14  | Jiuqi Wang | | 
 | Nov 21  | [Andrew Wagenmaker](https://wagenmaker.github.io/) | | 
