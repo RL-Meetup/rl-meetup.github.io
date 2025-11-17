@@ -38,9 +38,9 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Oct 17  | Amir Moeini  | [On the Design of KL-Regularized Policy Gradient Algorithms for LLM Reasoning](https://arxiv.org/abs/2505.17508) | 
 | Oct 24  | Haolin Liu | [Token Hidden Reward: Steering Exploration-Exploitation in Group Relative Deep Reinforcement Learning](https://www.arxiv.org/abs/2510.03669) | 
 | Oct 31  | Braham Snyder | [The Importance of Pessimism in Fixed-Dataset Policy Optimization](https://arxiv.org/abs/2009.06799) | 
-| Nov 7  | Minjae Kwon | | 
-| Nov 14  | Jiuqi Wang | | 
-| Nov 21  | [Andrew Wagenmaker](https://wagenmaker.github.io/) | | 
+| Nov 7  | Minjae Kwon | [Constraint Policy Optimization](https://arxiv.org/abs/1705.10528) | 
+| Nov 14  | Jiuqi Wang | [PokeeResearch: Effective Deep Research via Reinforcement Learning from AI Feedback and Robust Reasoning Scaffold](https://arxiv.org/abs/2510.15862) | 
+| Nov 21  | [Andrew Wagenmaker](https://wagenmaker.github.io/) | [Towards Practical Online Improvement of Pretrained Policies for Robotic Manipulation](https://arxiv.org/abs/2506.15799) | 
 | Nov 28 (Thanksgiving) |  | | 
 
 
