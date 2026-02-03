@@ -13,7 +13,7 @@ layout: home
         <h3 class="masthead-title">
             <p>UVA RL Meetup</p>
             <small>The Reinforcement Learning Meetup @ University of Virginia</small>  <br/>
-            <small>2-3pm Friday @ Rice Hall TBD </small>
+            <small>2-3pm Friday @ Rice Hall 204 </small>
         </h3>
     </div>
 </header>
