@@ -28,7 +28,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Date | Presenter | Paper or Topic |
 | - | -  | - |
 | Feb 13  | Haolin Liu | | 
-| Feb 20 |  | | 
+| Feb 20 | Braham Snyder | | 
 | Feb 27 |  | | 
 | Mar 6 |  | | 
 | Mar 13  | | | 
