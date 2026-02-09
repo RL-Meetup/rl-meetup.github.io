@@ -31,7 +31,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Feb 20 | Braham Snyder | | 
 | Feb 27 |  | | 
 | Mar 6 |  | | 
-| Mar 13  | | | 
+| Mar 13  | Zixuan Xie | | 
 | Mar 20  | |  |
 | Mar 27  | | |
 | Apr 3  | | |
