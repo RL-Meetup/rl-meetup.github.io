@@ -32,7 +32,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Feb 27 |  | | 
 | Mar 6 |  | | 
 | Mar 13  | Zixuan Xie | | 
-| Mar 20  | |  |
+| Mar 20  | Minjae Kwon |  |
 | Mar 27  | | |
 | Apr 3  | | |
 | Apr 10  || |
