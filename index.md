@@ -29,8 +29,8 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | - | -  | - |
 | Feb 13  | Haolin Liu | | 
 | Feb 20 | Braham Snyder | | 
-| Feb 27 |  | | 
-| Mar 6 |  | | 
+| Feb 27 (Spring break) |   | | 
+| Mar 6 (Spring break) |  | | 
 | Mar 13  | Zixuan Xie | | 
 | Mar 20  | Minjae Kwon |  |
 | Mar 27  | Xinyu Liu | |
