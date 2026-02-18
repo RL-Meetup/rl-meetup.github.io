@@ -36,7 +36,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Mar 27  | Xinyu Liu | |
 | Apr 3  | | |
 | Apr 10  || |
-| Apr 17  || |
+| Apr 17  | [Zechen Wu](https://zechenwu.com/) <br/> (remote) | |
 | Apr 24  | | |
 | May 1  | | |
  
