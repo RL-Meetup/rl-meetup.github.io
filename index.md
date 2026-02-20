@@ -27,14 +27,14 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 
 | Date | Presenter | Paper or Topic |
 | - | -  | - |
-| Feb 13  | Haolin Liu | | 
-| Feb 20 | Braham Snyder | [Temporal Difference Learning: Why It Can Be Fast and How It Will Be Faster](https://openreview.net/forum?id=j3bKnEidtT) | 
+| Feb 13  | Haolin Liu | [What is the objective of reasoning with reinforcement learning?](https://arxiv.org/abs/2510.13651) | 
+| Feb 20 | Braham Snyder <br/> (postponed) | [Temporal Difference Learning: Why It Can Be Fast and How It Will Be Faster](https://openreview.net/forum?id=j3bKnEidtT) | 
 | Feb 27 (Spring break) |   | | 
 | Mar 6 (Spring break) |  | | 
 | Mar 13  | Zixuan Xie | | 
 | Mar 20  | Minjae Kwon |  |
 | Mar 27  | Xinyu Liu | |
-| Apr 3  | | |
+| Apr 3  | Braham Snyder | |
 | Apr 10  || |
 | Apr 17  | [Zechen Wu](https://zechenwu.com/) <br/> (remote) | |
 | Apr 24  | | |
