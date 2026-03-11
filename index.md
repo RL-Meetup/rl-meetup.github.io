@@ -31,7 +31,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Feb 20 | Braham Snyder <br/> (postponed) | [Temporal Difference Learning: Why It Can Be Fast and How It Will Be Faster](https://openreview.net/forum?id=j3bKnEidtT) | 
 | Feb 27 (Spring break) |   | | 
 | Mar 6 (Spring break) |  | | 
-| Mar 13  | Zixuan Xie | | 
+| Mar 13  | Zixuan Xie | [Achieving ε−2 Dependence for Average-Reward Q-Learning  with a New Contraction Principle] (https://arxiv.org/abs/2601.21301) | 
 | Mar 20  | Minjae Kwon |  |
 | Mar 27  | Xinyu Liu | |
 | Apr 3  | Braham Snyder | |
