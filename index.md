@@ -35,7 +35,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Mar 20  | Minjae Kwon |  |
 | Mar 27  | Xinyu Liu | |
 | Apr 3  | Braham Snyder | |
-| Apr 10  || |
+| Apr 10  |Jiuqi Wang| |
 | Apr 17  | [Zechen Wu](https://zechenwu.com/) <br/> (remote) | |
 | Apr 24  | | |
 | May 1  | | |
