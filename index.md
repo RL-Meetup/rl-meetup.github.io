@@ -33,11 +33,11 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Mar 6 (Spring break) |  | | 
 | Mar 13  | Zixuan Xie | [Achieving ε−2 Dependence for Average-Reward Q-Learning  with a New Contraction Principle](https://arxiv.org/abs/2601.21301) | 
 | Mar 20  | Minjae Kwon |  |
-| Mar 27  | Xinyu Liu | |
+| Mar 27  | Xinyu Liu <br/> (postponed) | |
 | Apr 3  | Braham Snyder | |
 | Apr 10  |Jiuqi Wang| |
 | Apr 17  | [Zechen Wu](https://zechenwu.com/) <br/> (remote) | |
-| Apr 24  | | |
+| Apr 24  | Xinyu Liu | |
 | May 1  | | |
  
 
