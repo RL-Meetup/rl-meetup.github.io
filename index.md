@@ -37,7 +37,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Apr 3  | Braham Snyder | [Temporal Difference Learning: Why It Can Be Fast and How It Will Be Faster](https://openreview.net/forum?id=j3bKnEidtT) |
 | Apr 10  |Jiuqi Wang| [Mitigating Plasticity Loss in Continual Reinforcement Learning by Reducing Churn](https://openreview.net/forum?id=EkoFXfSauv) |
 | Apr 17  | [Zechen Wu](https://zechenwu.com/) <br/> (remote) | [A Unifying View of Linear Function Approximation in Off-Policy RL Through Matrix Splitting and Preconditioning](https://arxiv.org/abs/2501.01774) |
-| Apr 24  | Xinyu Liu | |
+| Apr 24  | Xinyu Liu | [Provably Convergent Actor-Critic in Risk-averse MARL](https://arxiv.org/abs/2602.12386)|
 | May 1  | | |
  
 
