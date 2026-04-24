@@ -28,12 +28,12 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Date | Presenter | Paper or Topic |
 | - | -  | - |
 | Feb 13  | Haolin Liu | [What is the Objective of Reasoning with Reinforcement Learning?](https://arxiv.org/abs/2510.13651) | 
-| Feb 20 | Braham Snyder <br/> (postponed) | [Temporal Difference Learning: Why It Can Be Fast and How It Will Be Faster](https://openreview.net/forum?id=j3bKnEidtT) | 
+| Feb 20 |  | | 
 | Feb 27 (Spring break) |   | | 
 | Mar 6 (Spring break) |  | | 
 | Mar 13  | Zixuan Xie | [Achieving ε<sup>-2</sup> Dependence for Average-Reward Q-Learning  with a New Contraction Principle](https://arxiv.org/abs/2601.21301) | 
 | Mar 20  | Minjae Kwon | [A Survey of Constraint Formulations in Safe Reinforcement Learning](https://arxiv.org/abs/2402.02025) |
-| Mar 27  | Xinyu Liu <br/> (postponed) | |
+| Mar 27  | | |
 | Apr 3  | Braham Snyder | [Temporal Difference Learning: Why It Can Be Fast and How It Will Be Faster](https://openreview.net/forum?id=j3bKnEidtT) |
 | Apr 10  |Jiuqi Wang| [Mitigating Plasticity Loss in Continual Reinforcement Learning by Reducing Churn](https://openreview.net/forum?id=EkoFXfSauv) |
 | Apr 17  | [Zechen Wu](https://zechenwu.com/) <br/> (remote) | [A Unifying View of Linear Function Approximation in Off-Policy RL Through Matrix Splitting and Preconditioning](https://arxiv.org/abs/2501.01774) |
